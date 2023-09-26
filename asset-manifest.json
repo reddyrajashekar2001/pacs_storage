@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pacs_storage.git/static/css/main.f00beafa.css",
+    "main.js": "/pacs_storage.git/static/js/main.512199c0.js",
+    "index.html": "/pacs_storage.git/index.html",
+    "main.f00beafa.css.map": "/pacs_storage.git/static/css/main.f00beafa.css.map",
+    "main.512199c0.js.map": "/pacs_storage.git/static/js/main.512199c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f00beafa.css",
+    "static/js/main.512199c0.js"
+  ]
+}
